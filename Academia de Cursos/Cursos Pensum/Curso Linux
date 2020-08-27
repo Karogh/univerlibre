@@ -1,0 +1,145 @@
+Curso de Linux 
+
+Acerca del curso
+El Curso de Linux está dirigido a estudiantes, profesionales y administradores informáticos, 
+que deseen aprender el funcionamiento del sistema GNU/Linux y comprender los sistemas de código abierto. 
+También está dirigido para aquellas personas que quieran repasar o profundizar conceptos básicos. 
+No es necesario tener conocimientos previos.
+¿Qué aprenderás?
+A lo largo del curso de GNU/Linux, esperamos que nuestros estudiantes puedan:
+a) Comprender el concepto de sistemas operativos.
+b) Conocer los comandos básicos de GNU/Linux.
+c) Aplicar la gestión de grupos y usuarios.
+d) Aplicar la gestión de paquetes en GNU/Linux.
+e) Comprender el sistema de permisos para directorios y archivos.
+f) Distinguir entre usuario normal y superusuario.
+
+Programa del curso
+
+Unidad 1: Introducción al curso: Sistemas operativos
+Clase 1: ¿qué es un sistema operativo?
+
+Clase 2: Tipos de sistemas operativos
+
+Clase 3: ¿qué es el kernel?
+
+Clase 4: ¿qué es el hardware y el software?
+
+
+Unidad 2: Introducción a GNU/Linux
+Clase 1: ¿qué es gnu/linux?
+
+Clase 2: ¿qué es el software libre?
+
+Clase 3: Código abierto [open source]
+
+Clase 4: ¿por qué deberías pasarte a linux?
+
+Clase 5: Top 5: distribuciones de linux para principiantes
+
+XClase 6: Instalar ubuntu en tu pc
+
+XClase 7: Instalar ubuntu en una máquina virtual
+
+
+Unidad 3: Comandos básicos TODO
+
+Clase 1: ¿qué es la terminal?
+
+Clase 2: Comando: pwd
+
+Clase 3: Comando: whoami
+
+Clase 4: Como cambiar el hostname
+
+Clase 5: Comando: cd
+
+Clase 6: Comando: ls
+
+Clase 7: Comando uname: obtener información de una máquina
+
+Clase 8: Comando: man
+
+Clase 9: Comando: more
+
+Clase 10: Comando: less
+
+Clase 11: Comando: cat
+
+Clase 12: Comando: head
+
+Clase 13: Comando: tail
+
+Clase 14: Comando: wc
+
+Clase 15: Comando: uniq
+
+Clase 16: Tuberías (pipes)
+
+
+Unidad 4: Procesos administrativos TODO
+
+Clase 1: Permisos de superusuario [root]
+
+Clase 2: Comando: mkdir
+
+Clase 3: Comando: kill
+
+Clase 4: Comando: cp
+
+Clase 5: Comando: mv
+
+Clase 6: Comandos: rm y rmdir
+
+Clase 7: Comando: touch
+
+Clase 8: Gestión de permisos: chmod, chown y chgrp
+
+Clase 9: Comando: umask
+
+Clase 10: Comando: find
+
+
+Unidad 5: Gestión de paquetes TODO
+
+Clase 1: Estructura de directorios
+
+Clase 2: Comandos: apt-get y dpkg
+
+Clase 3: Cómo actualizar los paquetes de linux
+
+Clase 4: Comandos para apagar, reiniciar, suspender e hibernar en gnu/linux
+
+
+Unidad 6: Backup y usuarios TODO
+
+Clase 1: ¿qué son los sistemas de archivos?
+
+Clase 2: ¿qué es linux swap?
+
+Clase 3: Buffer cache
+
+Clase 4: Creación de particiones fdisk
+
+Clase 5: Creación de particiones gparted
+
+Clase 6: Comandos mount y umount
+
+Clase 7: Comprimir/descomprimir archivos .tar
+
+Clase 8: Importancia de las copias de seguridad
+
+Clase 9: Copias de seguridad (backups)
+
+Clase 10: Gestión de usuarios y grupos
+
+Clase 11: Gestión de usuarios y grupos: ficheros de configuración
+
+Clase 12: Gestión de usuarios y grupos: comandos
+
+
+Obtenga un certificado de estudios
+El Curso de Linux es de acceso gratis e incluye la opción de obtener un certificado de estudios para evidenciar 
+sus conocimientos, por un precio ajustado a su país. Más información
+
+Título a certificar: Administrador de Sistemas GNU/Linux
